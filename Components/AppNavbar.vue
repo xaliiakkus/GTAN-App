@@ -15,6 +15,7 @@
                     <form>
                         <div class=" border-r px-4 mx-4 py-1 border-x-green-600">
                             <input minlength="3" maxlength="20" required class=" text-white bg-transparent border-b border-red-900 focus:outline-none"/>
+                            <button type="button" class="text-white bg-transparent">search</button>
                         </div>
                     </form>
                 </div>

@@ -6,6 +6,14 @@ export default ({
           tailwindcss: {},
           autoprefixer: {},
         },
-    },
+  },
+  fontawesome: {
+    icons: {
+      solid: true,
+      brands: true,
+      regular: true
+    }
+  },
+    
 
 })
