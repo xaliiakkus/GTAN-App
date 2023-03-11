@@ -6,6 +6,7 @@
 <script>
 import AMain from './Components/AMain.vue'
 export default {
+
   components: {
     AMain
   }
