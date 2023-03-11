@@ -1,13 +1,13 @@
 <template lang="">
   <div>
-    <Main/>
+    <AMain/>
   </div>
 </template>
 <script>
-import Main from './Components/main'
+import AMain from './Components/AMain.vue'
 export default {
   components: {
-    Main
+    AMain
   }
 }
 </script>
